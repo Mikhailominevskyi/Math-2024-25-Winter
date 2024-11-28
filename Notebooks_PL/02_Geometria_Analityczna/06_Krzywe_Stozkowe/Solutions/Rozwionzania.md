@@ -61,3 +61,5 @@ m = 2\sqrt{6}.
 $$
 
 ![alt text](image.png)
+
+[Parabola](https://pl.wikipedia.org/wiki/Parabola_(matematyka))
