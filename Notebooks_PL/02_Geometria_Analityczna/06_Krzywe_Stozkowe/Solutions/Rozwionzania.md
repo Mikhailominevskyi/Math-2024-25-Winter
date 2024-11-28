@@ -21,32 +21,40 @@ $$
 
 ### Krok 3: Rozwiąż równanie
 Podnosimy obie strony równania do kwadratu:
+
 $$
 \left(\frac{5}{\sqrt{m^2 + 1}}\right)^2 = 1^2,
 $$
+
 co daje:
+
 $$
 \frac{25}{m^2 + 1} = 1.
 $$
 
 Mnożymy przez \( m^2 + 1 \):
+
 $$
 25 = m^2 + 1.
 $$
 
 Przekształcamy równanie:
+
 $$
 m^2 = 24.
 $$
 
 Bierzemy pierwiastek:
+
 $$
 m = \sqrt{24} = 2\sqrt{6}.
 $$
 
 ### Krok 4: Wybierz \( m > 0 \)
 Ponieważ \( m > 0 \), ostateczny wynik to:
+
 $$
 m = 2\sqrt{6}.
 $$
+
 ![alt text](image.png)
