@@ -42,6 +42,7 @@ $$
 - $\mathbf{A} + \mathbf{B}$:
 
 $$
+
 \mathbf{A} + \mathbf{B} =
 \begin{pmatrix}
 1 & 2 \\
@@ -62,6 +63,7 @@ $$
 6 & 8 \\
 10 & 12
 \end{pmatrix}
+
 $$
 
 - $\mathbf{B} - \mathbf{A}$:
