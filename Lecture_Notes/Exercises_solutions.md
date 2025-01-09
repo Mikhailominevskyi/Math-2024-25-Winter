@@ -37,11 +37,10 @@ $$
 \end{pmatrix}
 $$
 
-$$
+
 ### 1. Oblicz: 
 
 - $\mathbf{A} + \mathbf{B}$:
-$$
 
 $$
 \mathbf{A} + \mathbf{B} =
